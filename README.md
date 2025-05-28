@@ -89,7 +89,7 @@ Welcome page with a hero section.
 Features an "Explore Now" button to view the tour and a "Build Your Tour" link to go to the editor.
 
 Includes smooth animations for the heading, paragraph, and buttons.
- ScreenShots/Landing-page.png
+[Screenshot]( ScreenShots/Landing-page.png)
 
 
 
@@ -98,8 +98,8 @@ Tour Page (/tour):
 Displays tour steps one at a time with navigation buttons ("Previous", "Next", "Finish").
 
 Each step includes an image, title, and description, with animations for transitions.
-ScreenShots/tour1.png
-ScreenShots/tour2.png
+[Screenshot](ScreenShots/tour1.png)
+[Screenshot](ScreenShots/tour2.png)
 
 
 Editor Page (/editor):
@@ -108,7 +108,7 @@ Form to add new tour steps (title, image URL, description).
 Live preview of added steps in a vertical timeline.
 
 "View Full Tour" link to see the tour in the TourPage.
-ScreenShots/editor.png
+[Screenshot](ScreenShots/editor.png)
 
 
 
